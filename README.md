@@ -8,6 +8,7 @@ Booking System: A secure and straightforward booking feature for hassle-free res
 User Authentication: Includes login and registration functionality for personalized user experiences.
 Review System: Users can leave reviews and ratings for accommodations.
 Responsive Design: Optimized for all devices, including desktops, tablets, and smartphones.
+
 Technologies Used
 
 Frontend: HTML, CSS, JavaScript
